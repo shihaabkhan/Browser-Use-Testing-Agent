@@ -1,0 +1,60 @@
+{
+  "JRN-101": {
+    "name": "AI Study Assistant Evaluation Flow",
+    "persona_id": "ST-1",
+    "steps": [
+      {
+        "step": 1,
+        "action": "Ask AI to explain 'Operating Systems' in simple terms with a real-life analogy",
+        "expected": "AI provides beginner-friendly explanation with analogy"
+      },
+      {
+        "step": 2,
+        "action": "Ask follow-up: 'What is process scheduling?' and connect it to previous answer",
+        "expected": "AI maintains context and explains scheduling clearly"
+      },
+      {
+        "step": 3,
+        "action": "Request comparison between FCFS and Round Robin scheduling",
+        "expected": "AI provides structured comparison (pros/cons or table format)"
+      },
+      {
+        "step": 4,
+        "action": "Ask for 3 exam-level quiz questions on Operating Systems",
+        "expected": "AI generates relevant quiz questions"
+      },
+      {
+        "step": 5,
+        "action": "Request answers to the quiz questions with brief explanations",
+        "expected": "AI provides correct answers with short reasoning"
+      },
+      {
+        "step": 6,
+        "action": "Ask AI to summarize everything in 5 bullet points for revision",
+        "expected": "AI gives concise revision summary"
+      },
+      {
+        "step": 7,
+        "action": "Ask AI: 'What are common mistakes students make in OS exams?'",
+        "expected": "AI provides insightful exam tips and mistakes"
+      }
+    ]
+  },
+  "JRN-102": {
+    "name": "AI Study Assistant Evaluation Flow",
+    "persona_id": "ST-1",
+    "steps": [
+      {
+        "step": 1,
+        "action": "Ask AI to explain 'Operating Systems' in simple terms with a real-life analogy",
+        "expected": "AI provides beginner-friendly explanation with analogy"
+      },
+      {
+        "step": 2,
+        "action": "Ask follow-up: 'What is process scheduling?' and connect it to previous answer",
+        "expected": "AI maintains context and explains scheduling clearly"
+      }
+    ]
+  }
+}
+

@@ -1,0 +1,19 @@
+{
+  "ST-1": {
+    "name": "Rohan Mehta",
+    "segment": "Computer Science Engineering Student",
+    "bio": "Final year engineering student actively using AI tools for exam preparation, coding help, and concept clarity.",
+    "traits": [
+      "analytical",
+      "detail-oriented",
+      "time-conscious",
+      "budget-conscious"
+    ],
+    "goals": [
+      "Understand complex CS concepts clearly",
+      "Prepare efficiently for exams",
+      "Generate practice questions and mock tests",
+      "Use AI as a study companion for revision"
+    ]
+  }
+}
